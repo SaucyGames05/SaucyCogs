@@ -80,3 +80,11 @@ class BetterNSFW(commands.Cog):
 	@commands.command()
 	async def hentaigif(self, ctx):
 		# put shit here
+
+	@commands.command()
+	async def tags(self, ctx, string):
+		# put shit here
+
+	@commands.command()
+	async def search(self, ctx, string):
+		# put shit here
