@@ -1,6 +1,6 @@
 {
 	"AUTHOR": "thelaziestdev (SaucyGames05)",
-	"INSTALL_MSG": "better_nsfw repo has been added!",
+	"INSTALL_MSG": "better_nsfw repo has been added! NOTE: This cog uses outside API services such as Reddit API and is also NSFW but I'm sure you knew that ;)",
 	"DESCRIPTION": "This cog allows you for a better and more diverse NSFW images and gifs. The images are selected from a few different sources and allows better image search.",
 	"SHORT": "This NSFW cog is better than the other one",
 	"NAME": "BetterNSFW-V1"
