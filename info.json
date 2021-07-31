@@ -1,7 +1,13 @@
 {
-	"AUTHOR": "thelaziestdev (SaucyGames05)",
-	"INSTALL_MSG": "better_nsfw repo has been added! NOTE: This cog uses outside API services such as Reddit API and is also NSFW but I'm sure you knew that ;)",
-	"DESCRIPTION": "This repo contains a cog which allows you for a better and more diverse NSFW images and gifs. The images are selected from a few different sources and allows better image search.",
-	"SHORT": "This NSFW cog is better than the other one",
-	"NAME": "BetterNSFW-V1"
+	"author" : ["thelaziestdev (SaucyGames05)"],
+	"install_msg" : "better_nsfw repo has been added! NOTE: This cog uses outside API services such as Reddit API and is also NSFW but I'm sure you knew that ;)",
+	"name" : "better-nsfw",
+	"short" : "Get nsfw content",
+	"description" : "This cog allows you for a better and more diverse NSFW images and gifs. The images are selected from a few different sources and allows better image search.",
+	"required_cogs": {},
+	"requirements": [],
+	"min_bot_version": "3.1.8",
+	"max_bot_version": "0.0.0",
+	"tags": [],
+	"type": "COG"
 }
