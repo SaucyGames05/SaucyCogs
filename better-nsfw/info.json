@@ -9,5 +9,6 @@
 	"min_bot_version": "3.1.8",
 	"max_bot_version": "0.0.0",
 	"tags": [],
-	"type": "COG"
+	"hidden": false,
+	"end_user_data_statement": "Sends explicit images in channel and grabs data from the internet using APIs."
 }
